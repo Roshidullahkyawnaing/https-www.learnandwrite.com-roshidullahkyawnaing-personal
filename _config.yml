@@ -1,9 +1,6 @@
-
 title: Learn And Write.com
-description: Poems, Stories, Reflections by Roshidullah Kyaw Naing
-baseurl: ""
-url: ""
+description: Poems, Stories, Reflections
 author: Roshidullah Kyaw Naing
 email: roshidullahkyawnaing67@gmail.com
-phone: +601125131484
-theme: minima
+baseurl: ""  # or "/repo-name" if you're not using a custom domain
+url: "https://yourusername.github.io"
